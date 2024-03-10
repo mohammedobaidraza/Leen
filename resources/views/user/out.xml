@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<posts>
+    <post>
+        <id>1</id>
+        <title>Looking for a roommate to share a 2BR/2BA apartment near campus!</title>
+        <content>I'm a rising junior at LUC and I'm looking for a roommate to share a 2BR/2BA apartment near campus. The
+            apartment is fully furnished and has a washer and dryer in unit. Rent is $XXXX per month and utilities are
+            split evenly.&#xD; &#xD; I'm a clean and tidy person and I'm looking for a roommate who is similar. I'm also
+            social and I enjoy hanging out with my friends, but I also respect personal space.&#xD; &#xD; If you're
+            interested in the room, please send me a message with a little bit about yourself.
+        </content>
+        <likes>2</likes>
+        <comments>2</comments>
+        <category>roommate</category>
+        <date>Dec 6, 2023</date>
+        <author>Leen</author>
+    </post>
+    <post>
+        <id>6</id>
+        <title>looking for new event at luc</title>
+        <content>test</content>
+        <likes>2</likes>
+        <comments>2</comments>
+        <category>events_cat</category>
+        <date>Dec 6, 2023</date>
+        <author>Waad</author>
+    </post>
+    <post>
+        <id>2</id>
+        <title>How to survive your first semester of college</title>
+        <content>College can be a lot to handle, especially your first semester. Here are a few tips to help you survive
+            and thrive:&#xD; &#xD; Get involved in extracurricular activities. This is a great way to meet new people
+            and make friends.&#xD; Don't be afraid to ask for help. If you're struggling in a class, don't hesitate to
+            reach out to your professor or TA.&#xD; Take care of yourself. Make sure you're getting enough sleep, eating
+            healthy foods, and exercising regularly.
+        </content>
+        <likes>1</likes>
+        <comments>0</comments>
+        <category>advice</category>
+        <date>Dec 6, 2023</date>
+        <author>Waad</author>
+    </post>
+    <post>
+        <id>3</id>
+        <title>LUC Winter Fest is coming up!</title>
+        <content>Join us for LUC Winter Fest on [date]! There will be food, drinks, music, and games for everyone to
+            enjoy. The event is free and open to the public.
+        </content>
+        <likes>1</likes>
+        <comments>0</comments>
+        <category>events_cat</category>
+        <date>Dec 6, 2023</date>
+        <author>Obaied</author>
+    </post>
+    <post>
+        <id>4</id>
+        <title>The best books to read for your college courses</title>
+        <content>Here are a few of the best books to read for your college courses:&#xD; &#xD; The Autobiography of
+            Malcolm X by Malcolm X and Alex Haley&#xD; The Handmaid's Tale by Margaret Atwood&#xD; Beloved by Toni
+            Morrison&#xD; 1984 by George Orwell&#xD; Catch-22 by Joseph Heller
+        </content>
+        <likes>0</likes>
+        <comments>0</comments>
+        <category>books</category>
+        <date>Dec 6, 2023</date>
+        <author>Christian</author>
+    </post>
+    <post>
+        <id>5</id>
+        <title>Books for free</title>
+        <content>I have many programming books for free</content>
+        <likes>0</likes>
+        <comments>0</comments>
+        <category>books</category>
+        <date>Dec 6, 2023</date>
+        <author>Leen</author>
+    </post>
+</posts>
