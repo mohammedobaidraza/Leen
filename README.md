@@ -12,6 +12,7 @@ Leen is a digital community platform tailor-made for Loyola University students.
 
 ## About The Project
 
+Loyola Education Engagement Network.
 Leen platform comes as a creative solution tailored for Loyola University students. 
 This platform, named to encapsulate its core components - Loyola, Engagement, Education, Network - is designed to streamline and enhance the university experience for students.
 
